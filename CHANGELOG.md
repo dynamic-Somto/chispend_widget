@@ -1,6 +1,6 @@
 ## 0.0.1
 
 * ChiSpendWidget:
-  - Communcate with ChiSpend Javascrpt channel.
+  - Communicate with ChiSpend Javascript channel.
   - Fully customize Widget theme and colour.
   - Add Max amount users can spend.
