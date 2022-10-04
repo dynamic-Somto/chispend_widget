@@ -1,3 +1,6 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* ChiSpendWidget:
+  - Communcate with ChiSpend Javascrpt channel.
+  - Fully customize Widget theme and colour.
+  - Add Max amount users can spend.
